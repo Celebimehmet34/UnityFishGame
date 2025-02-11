@@ -1,0 +1,25 @@
+# Unity'nin gereksiz dosyaları
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+
+# VS Code ve Rider için
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.unityproj
+
+# Mac OS ve Windows sistem dosyaları
+.DS_Store
+Thumbs.db
+
+# Cache ve meta dosyaları
+*.pidb
+*.svd
+*.pdb
